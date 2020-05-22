@@ -54,7 +54,7 @@ public class VirtualPetApplication {
                 break;
             }
             puppy.tick();
-        }   System.out.println("The End.");
+        }
     }
 }
 
